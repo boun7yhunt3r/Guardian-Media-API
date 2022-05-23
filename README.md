@@ -1,5 +1,5 @@
 # Guardian-Media-API
-Analytics on "Brexit" popularity over years using Guardian API.
+Analytics on "Brexit" article popularity over years using Guardian API.
 
 Did some basic analytics on Brexit popularity using data collected from Guardian API.
 
